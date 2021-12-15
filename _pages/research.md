@@ -14,6 +14,7 @@ In a new avenue of research, I leverage social media data to explore the effects
 ### Working paper
 
 Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression
+
 [PDF](/files/pdf/research/Welfare_Cost_Late-life_Depression.pdf){: .btn--research} [Online Appendix](/files/pdf/research/Depression_Online_Appx.pdf){: .btn--research}
 > We quantify the welfare cost of depression among older Americans by estimating a panel VAR model of mental and physical health, labor supply, and consumption using data from the Health and Retirement Study. We use the estimated model and age sixty joint distribution of outcomes to simulate life-cycle paths with and without prevalence of depressive symptoms after age sixty. We estimate that the prevalence of late-life depression costs an average of between 0.85 and 2.1 years in quality-adjusted life expectancy per person. Moreover, depression may result in an average loss of labor supply of up to 1.1 months and lifetime consumption of up to 16,000 US dollars. Combining into a single compensating variation welfare metric, we estimate a bound on the average welfare cost of depression of 8-15% of annual consumption after age sixty. On aggregate, this amounts to roughly 180-360 billion US dollars annually. We also project that while the average welfare cost of late-life depression is declining slightly over birth cohorts, the welfare burden is becoming significantly more unequal.
 
