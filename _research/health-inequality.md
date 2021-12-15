@@ -10,7 +10,7 @@ header:
 
 In this research I am primarily interested in understanding three different aspects of health – 1) heterogeneity within a population 2) understanding how inequalities in health and mortality translate into inequality in individual well-being across racial groups and 3) dynamic evolution of health over the life-cycle. Some specific research projects in these directions are as follows:
 
-### Working paper
+## Working paper
 
 Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression
 
@@ -18,7 +18,7 @@ Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression
 
 [PDF](/files/pdf/research/Welfare_Cost_Late-life_Depression.pdf){: .btn--research} [Online Appendix](/files/pdf/research/Depression_Online_Appx.pdf){: .btn--research}
 
-### Manuscript in preparation
+## Manuscript in preparation
 
 Chin, S., & Miller, R. Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans
 
