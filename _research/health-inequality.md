@@ -1,11 +1,11 @@
 ---
-title: "Conflict preemption"
+title: "Health and Inequality"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/race.png' alt=''>"
 collection: research
 order_number: 10
 header:
-  og_image: "research/epr.png"
+  og_image: "/images/research/race.png"
 ---
 
 In this research I am primarily interested in understanding three different aspects of health – 1) heterogeneity within a population 2) understanding how inequalities in health and mortality translate into inequality in individual well-being across racial groups and 3) dynamic evolution of health over the life-cycle. Some specific research projects in these directions are as follows:
