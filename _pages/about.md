@@ -13,4 +13,4 @@ I earned my Master of Arts in Economics from the [Department of Economics](http:
 
 Outside the office you'll find me intensely watching EPL games, lifting weight, playing soccer, or hiking.
 
-More information can be found in my [research](https://schinlfc.github.io/research), [teaching]https://schinlfc.github.io/teaching), and [Curriculum vitae](https://schinlfc.github.io/cv)) pages. Feel free to contact me for potential future research collaboration.  
+More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [Curriculum vitae](https://schinlfc.github.io/cv)) pages. Feel free to contact me for potential future research collaboration.  
