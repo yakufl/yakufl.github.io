@@ -8,7 +8,7 @@ analytical skills and master the tools of data analysis through hands-on
 experience. I have taught undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
 to economic conditions in developed countries. At Colorado State University, I
-taught both introductory and intermediate level course in microeconomics and
+taught both introductory and intermediate level courses in microeconomics and
 macroeconomics. I also served as a teaching assistant for course in
 introductory to econometrics.
 
@@ -20,6 +20,6 @@ You can also find a selection of syllabi, including detail schedule below:
     - [Syllabus](/files/pdf/teaching/ECON460_801_Syllabus.pdf)
     - [Schedule](/files/pdf/teaching/ECON460_Schedule.pdf)
 
-- ECON 306: Intermediate microeconomics
+- ECON 306: Intermediate Microeconomics
     - [Syllabus](/files/pdf/teaching/ECON306_001_Syllabus.pdf)
     - [Schedule](/files/pdf/teaching/ECON306_801_Schedule.pdf)
