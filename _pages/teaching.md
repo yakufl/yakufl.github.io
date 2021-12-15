@@ -25,4 +25,4 @@ You can also find a selection of syllabi, including detail schedule below:
     - [Class topics](/files/pdf/teaching/ECON306_801_Schedule.pdf)
 
 - ECON 304: Intermediate Macroeconomics
-    - [Syllabus and class topics](/files/pdf/teaching/ECON304_Fall20Syllabus.pdf)
+    - [Syllabus](/files/pdf/teaching/ECON304_Fall20Syllabus.pdf)
