@@ -1,11 +1,11 @@
 ---
 title: "Social Media"
 layout: single-portfolio
-excerpt: "<img src='/images/research/social-media.jpeg' alt=''>"
+#excerpt: "<img src='/images/research/social-media.jpeg' alt=''>"
 collection: research
-order_number: 30
-header:
-  og_image: "research/social-media.jpeg"
+#order_number: 30
+#header:
+  #og_image: "research/social-media.jpeg"
 ---
 
 Since it is expensive to estimate daily sentiment across the United States using a survey, publicly available updates on social media provide a low-cost alternative. Using a large set of geolocated tweets requested through Twitter API, this project aims to measure daily variation in expressed sentiment across the United States as a proxy for mental health status in response to daylight savings time (DST). A specific research project in these directions is as follow:
