@@ -11,7 +11,7 @@ My other main research agenda focuses on early childhood development, parental i
 
 In a new avenue of research, I leverage social media data to explore the effects of daylight savings times on expressed sentiment, gaining insight into some of the potential mechanisms of this policy.
 
-### Working paper
+### Working papers
 
 Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression
 
@@ -31,8 +31,8 @@ Chin, S., Zahran, S., & Mushinski, D. Daylight Saving Time Transitions and Expre
 
 ### Work in progress
 
-Mudenda, L.D., Perry, T., & Chin, S. Household Financial Insecurity and Parental Time Investment:
-Evidence from the Panel Study of Income Dynamics
+Mudenda, L.D., Perry, T., & Chin, S. Household Financial Insecurity and Parental Time Investments:
+Empirical Evidence from the Gendered and Racial Analysis in the United States
 
 Sedai, A.K., & Chin, S. Does Better Fuel Choice Lead to Better Employment? An Analysis by
 Gender and Caste in India
