@@ -1,11 +1,11 @@
 ---
 title: "Defensive Medicine and Physician Behavior"
 layout: single-portfolio
-#excerpt: "<img src='/images/research/c-section.png' alt=''>"
+excerpt: "<img src='/images/research/c-section.png' alt=''>"
 collection: research
 order_number: 20
-#header:
-  #og_image: "research/c-section.png"
+header:
+  og_image: "research/c-section.png"
 ---
 
 Defensive medicine (DM) concerns physicians undertaking unnecessary procedures out of fear of
