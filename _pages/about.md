@@ -1,32 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Welcome! I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at Colorado State University, and a Data Scientist at Mountain Data Group.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+I earned my Master of Arts in Economics from the Department of Economics at Colorado State University in 2019 and my Bachelor of Arts  in Econometrics and Quantitative Economics from the Department of Economics & Business at Colorado College in 2017. I am interested in the intersection of health, public and welfare economics, and population and development economics. My current research evolves around understanding the behaviors of physicians in response to medical malpractice liability, correlation between circadian rhythms and emotions using machine learning, and health and racial welfare gaps among the elderly.
