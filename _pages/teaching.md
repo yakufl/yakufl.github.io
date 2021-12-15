@@ -15,7 +15,7 @@ introductory to econometrics.
 My teaching portfolio is available upon request.
 You can also find a selection of syllabi, including detail schedule below:
 
-### Course taught
+### Courses taught
 - ECON 460: Economic Development
     - [Syllabus](/files/pdf/teaching/ECON460_801_Syllabus.pdf)
     - [Schedule](/files/pdf/teaching/ECON460_Schedule.pdf)
