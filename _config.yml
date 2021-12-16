@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayorn &nbsp Chin"
+title                    : "<h1> Sayorn Chin </h1>"
 title_separator          : "-"
 name                     : &name "Sayorn Chin"
 description              : &description "Economist and Data Scientist"
