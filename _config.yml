@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SAYORN CHIN <br> You'll Never Walk Alone"
+title                    : "SAYORN CHIN"
 title_separator          : "-"
 name                     : &name "Sayorn Chin"
 description              : &description "Economist and Data Scientist"
