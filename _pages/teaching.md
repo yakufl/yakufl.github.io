@@ -13,16 +13,16 @@ macroeconomics. I also served as a teaching assistant for course in
 introductory to econometrics.
 
 My teaching portfolio is available upon request.
-You can also find a selection of syllabi, including detail schedule below:
+I teach the following courses at Colorado State University.
+You can find a selection of syllabi, including detail of each course content below:
 
-### Courses taught
 - ECON 460: Economic Development
     - [Syllabus](/files/pdf/teaching/ECON460_801_Syllabus.pdf)
-    - [Class topics](/files/pdf/teaching/ECON460_Schedule.pdf)
+    - [Content](/files/pdf/teaching/ECON460_Schedule.pdf)
 
 - ECON 306: Intermediate Microeconomics
     - [Syllabus](/files/pdf/teaching/ECON306_001_Syllabus.pdf)
-    - [Class topics](/files/pdf/teaching/ECON306_801_Schedule.pdf)
+    - [Content](/files/pdf/teaching/ECON306_801_Schedule.pdf)
 
 - ECON 304: Intermediate Macroeconomics
     - [Syllabus](/files/pdf/teaching/ECON304_Fall20Syllabus.pdf)
