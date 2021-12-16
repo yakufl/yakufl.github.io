@@ -17,7 +17,7 @@ repository               : "schinlfc/schinlfc.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "false" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          :
   goatcounter:
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Sayorn Chin"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Candidate in Econometrics and Quantitative Economics | Data Scientist"
-  location         : "Fort Collions, CO"
+  bio              : "Ph.D. Candidate in Econometrics and Quantitative Economics | Data Scientist <br> <br> The views expressed here are my own and do not necessarily represent the views of Colorado State University nor Mountain Data Group."
+  location         : "Fort Collions, CO, USA"
   employer         :
   pubmed           :
   orcid            :
