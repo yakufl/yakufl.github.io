@@ -29,8 +29,5 @@ Chin, S., Zahran, S., & Mushinski, D. Daylight Saving Time Transitions and Expre
 
 ### Work in progress
 
-Mudenda, L.D., Perry, T., & Chin, S. Household Financial Insecurity and Parental Time Investments:
-Empirical Evidence from the Gendered and Racial Analysis in the United States
-
 Sedai, A.K., & Chin, S. Does Better Fuel Choice Lead to Better Employment? An Analysis by
 Gender and Caste in India
