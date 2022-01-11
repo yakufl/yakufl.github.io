@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About me
 
 I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).
 
