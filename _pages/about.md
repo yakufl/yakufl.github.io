@@ -13,6 +13,6 @@ I earned my Master of Arts in Economics from the [Department of Economics](http:
 
 I will be available for interviews at the ASSA meeting in 2022--2023.
 
-Outside the office you will find me watching EPL games, lifting weight, playing soccer, hiking, or playing guitar and piano. I am a massive jazz and blues enthusiast.
+For fun you will find me watching EPL games, lifting weight, playing soccer, hiking, or playing guitar and piano. I am a massive jazz, blues, and Liverpool FC fan.
 
-More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [curriculum vitae](https://schinlfc.github.io/cv) pages. Feel free to contact me for potential future research collaboration in related topics of interest.  
+More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [CV](https://schinlfc.github.io/cv) pages.
