@@ -8,7 +8,7 @@ My research interests lie in understanding the welfare effects of public policy 
 
 In a new avenue of research, I leverage social media data to explore the effects of daylight savings times on expressed sentiment, gaining insight into some of the potential mechanisms of this policy.
 
-### Working papers
+### Working Papers
 
 Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression
 
