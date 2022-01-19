@@ -8,7 +8,7 @@
 
 {% if page.title and page.author_profile != true %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
-{% if page.title and page.author_profile == true %}
+{% elsif page.title and page.author_profile == true %}
   {% assign seo_title = "Sayorn Chin" %}
 {% endif %}
 
