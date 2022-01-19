@@ -332,7 +332,7 @@
 
   .active {
     margin-left: -0.5em;
-    padding-left: 0.5em;
+    padding-left: 0em;
     padding-right: 0.5em;
     color: #fff;
     font-weight: normal;
@@ -346,8 +346,8 @@
 }
 
 .nav__title {
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: normal;
@@ -355,8 +355,8 @@
 
 .nav__sub-title {
   display: block;
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: normal;
