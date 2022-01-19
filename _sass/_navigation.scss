@@ -346,15 +346,16 @@
 }
 
 .nav__title {
+  display: flex;
   margin: 0em;
   padding: 0em;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-2;
+  font-size: $type-size-6;
   font-weight: normal;
 }
 
 .nav__sub-title {
-  display: block;
+  display: flex;
   margin: 0em;
   padding: 0em;
   font-family: $sans-serif-narrow;
