@@ -7,7 +7,7 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title and page.author_profile != true %}
-  {% assign seo_title = "page.title" | append: " " | append: site.title_separator | append: " " | append: "Sayorn Chin" %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: "Sayorn Chin" %}
 {% elsif page.title and page.author_profile == true %}
   {% assign seo_title = "Sayorn Chin" %}
 {% endif %}
