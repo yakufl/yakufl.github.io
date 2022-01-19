@@ -12,4 +12,4 @@ I earned my master of arts in economics from the [Department of Economics](http:
 
 For fun you will find me watching EPL games, lifting weight, playing soccer, hiking, or playing guitar and piano. I am a massive jazz, blues, and [Liverpool FC](https://www.liverpoolfc.com/) fan.
 
-More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [CV](https://schinlfc.github.io/cv) pages.
+More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [curriculum vitae](https://schinlfc.github.io/cv) pages.
