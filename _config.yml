@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayorn Chin"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Sayorn Chin"
 description              : &description "Ph.D. Candidate and Data Scientist"
