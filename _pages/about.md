@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Hi there! My name is Sai. Thank you for stopping by!*
+**Hey there! My name is Sai. Thank you for stopping by!**
 
 I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).
 
