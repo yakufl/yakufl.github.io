@@ -11,8 +11,7 @@ experience. I have taught undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
 to economic conditions in developed countries. At Colorado State University, I
 taught both introductory and intermediate level courses in microeconomics and
-macroeconomics. I also served as a teaching assistant for course in
-introductory to econometrics.
+macroeconomics.
 
 My teaching portfolio is available upon request.
 I teach the following courses at Colorado State University.
