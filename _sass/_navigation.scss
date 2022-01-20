@@ -47,7 +47,7 @@
   }
 
   .current {
-    font-weight: normal;
+    font-weight: bold;
   }
 }
 
@@ -79,7 +79,7 @@
       padding: 0.5em 1em;
       font-family: $sans-serif;
       font-size: 14px;
-      font-weight: normal;
+      font-weight: bold;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
@@ -128,7 +128,7 @@
     width: 50%;
     font-family: $sans-serif;
     font-size: $type-size-5;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
@@ -209,7 +209,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: normal;
+        font-weight: bold;
 
         a {
           margin-left: 0;
@@ -335,7 +335,7 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
-    font-weight: normal;
+    font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
 
@@ -349,8 +349,8 @@
   margin: 0;
   padding: 0.5rem 1rem;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
-  font-weight: normal;
+  font-size: $type-size-5;
+  font-weight: bold;
 }
 
 .nav__sub-title {
@@ -399,7 +399,7 @@
     padding: 0.5rem 1rem;
     color: $gray;
     font-size: $type-size-7;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
