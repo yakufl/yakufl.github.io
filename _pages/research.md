@@ -1,8 +1,10 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
+**Research**
+
 My research interests lie in understanding the welfare effects of public policy programs. I am particularly interested in examining health and socio-economic inequalities. My research combines rigorous economic theory, econometric and statistical tools, rich micro data and large-scale simulations to answer important questions at the intersection of public policy and population health. My other main research agenda focuses on understanding the behaviors of physicians in response to medical malpractice liability.
 
 In a new avenue of research, I leverage social media data to explore the effects of daylight savings times on expressed sentiment, gaining insight into some of the potential mechanisms of this policy.
