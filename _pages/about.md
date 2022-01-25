@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:1.2em;">Hi there! My name is Sayorn Chin. I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).</span>
+<span style="font-size:1.15em;">Hi there! My name is Sayorn Chin. I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).</span>
 
 I earned my Master of Arts in Economics from the [Department of Economics](http://economics.colostate.edu/) at [Colorado State University](https://www.colostate.edu/) in 2019 and my Bachelor of Arts in Mathematical Economics from [Colorado College](https://www.coloradocollege.edu/) in 2017. I am mainly interested in the intersection of health economics, public economics, and development economics. My current research evolves around understanding the behaviors of physicians in response to medical malpractice liability, correlation between circadian rhythms and mental health using social media data and machine learning techniques, and health and racial welfare gaps among the elderly population.
 

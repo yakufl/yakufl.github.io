@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
-<span style="font-size:1.2em;">Research plays a central role in my teaching as students improve their
+<span style="font-size:1.15em;">Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience.</span>
 
