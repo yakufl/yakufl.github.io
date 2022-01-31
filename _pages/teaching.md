@@ -3,9 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
-<span style="font-size:1.15em;">Research plays a central role in my teaching as students improve their
+Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
-experience.</span>
+experience.
 
 I have taught undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
