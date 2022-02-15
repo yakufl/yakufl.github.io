@@ -7,10 +7,10 @@ Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience.
 
-I have taught undergraduate course on economic development that
+I teach undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
-to economic conditions in developed countries. At Colorado State University, I
-taught both introductory and intermediate level courses in microeconomics and
+to economic conditions in developed countries. I also teach both introductory 
+and intermediate level courses in microeconomics and
 macroeconomics.
 
 My teaching portfolio is available upon request.

@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am currently a Ph.D. Candidate in Econometrics and Quantitative Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).
 
-I earned my Master of Arts in Economics from the [Department of Economics](http://economics.colostate.edu/) at [Colorado State University](https://www.colostate.edu/) in 2019 and my Bachelor of Arts in Mathematical Economics from [Colorado College](https://www.coloradocollege.edu/) in 2017. I am mainly interested in the intersection of health economics, public economics, and development economics. My current research evolves around understanding the behaviors of physicians in response to medical malpractice liability, correlation between circadian rhythms and mental health using social media data and machine learning techniques, and health and racial welfare gaps among the elderly population.
+I earned my Master of Arts in Economics from the [Department of Economics](http://economics.colostate.edu/) at [Colorado State University](https://www.colostate.edu/) in 2019 and my Bachelor of Arts in Mathematical Economics from [Colorado College](https://www.coloradocollege.edu/) in 2017. I am mainly interested in the intersection of health economics and public economics. My research examines various topics in applied economics, with particular attention to a comprehensive measure of racial welfare inequality and policy evaluation.
 
 My love for economics comes strongly from my own life experiences growing up in a disadvantageous society in Cambodia. It has inspired my exploration to use economics as a tool to conduct my critiques of economic policy in order to advance social change.
 
