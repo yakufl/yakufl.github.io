@@ -22,4 +22,7 @@ Chin, S., & Miller, R. Beyond Income: Health, Wealth, and Racial Welfare Gaps Am
 
 Chin, S., & Zahran, S. Daylight Saving Time and Population's Well-Being: Evidence from Twitter
 
+Zahran, S., Chin, S., Fremstad, A., & Numa, G. The Compensation of Conscience: Evidence from Occupational Switching
+
 Sedai, A.K., & Chin, S. Does Better Fuel Choice Lead to Better Employment? An Analysis by Gender and Caste in India
+
