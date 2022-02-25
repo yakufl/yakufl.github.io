@@ -20,6 +20,8 @@ Miller, R., Chin, S., & Sedai, A.K. The Welfare Cost of Late-life Depression. Un
 Chin, S., & Miller, R. Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans
 > We estimate racial disparities in well-being among the older U.S. population using an expected utility framework that incorporates differences in consumption, leisure, health, and mortality. We find large racial disparities in expected welfare later in life that have increased over time. Moreover, disparity measures based on cross-sectional income or consumption substantially underestimate the level and growth in the racial welfare gap by ignoring growing disparities in expected elderly health, wealth, and mortality.
 
+Chin, S., Miller, R., & Zahran, S. Health Insurance, Pregnancy, Health and Well-Being in Late-Life
+
 Chin, S., & Zahran, S. Daylight Saving Time and Population's Well-Being: Evidence from Twitter
 
 Zahran, S., Chin, S., Fremstad, A., & Numa, G. The Compensation of Conscience: Evidence from Occupational Switching
