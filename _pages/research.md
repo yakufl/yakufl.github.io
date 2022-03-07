@@ -22,7 +22,7 @@ Chin, S., & Miller, R. Beyond Income: Health, Wealth, and Racial Welfare Gaps Am
 
 Chin, S., & Miller, R. Health Insurance, Pregnancy, Health and Well-Being in Late-Life
 
-Chin, S., & Zahran, S. Daylight Saving Time and Population's Well-Being: Evidence from Twitter
+Chin, S., & Zahran, S. Daylight Saving Time and Population Well-Being: Evidence from Twitter
 
 Zahran, S., Chin, S., Fremstad, A., & Numa, G. The Compensation of Conscience: Evidence from Occupational Switching
 
