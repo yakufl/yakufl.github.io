@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. Candidate in Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).
+I am currently a Doctoral Student in Economics at [Colorado State University](https://www.colostate.edu/), and a Data Scientist at [Mountain Data Group](https://www.mountaindatagroup.com/).
 
 I earned my Master of Arts in Economics from the [Department of Economics](http://economics.colostate.edu/) at [Colorado State University](https://www.colostate.edu/) in 2019 and my Bachelor of Arts in Mathematical Economics from [Colorado College](https://www.coloradocollege.edu/) in 2017. My research interests lie in understanding the welfare effects of public policy programs. I am particularly interested in examining health and socio-economic inequalities. My research combines rigorous economic theory, econometric and statistical tools, natural language processing algorithms, rich micro data and large-scale simulations to answer important questions at the intersection of public policy and population health.
 
