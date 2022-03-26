@@ -14,7 +14,7 @@ author_profile: true
 Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans. Submitted to *Review of Economic Dynamics*
 > We estimate racial disparities in well-being among the older U.S. population using an expected utility framework that incorporates differences in consumption, leisure, health, mortality, and bequests. We find large racial disparities in expected welfare later in life that have increased over time. Moreover, disparity measures based on cross-sectional income or consumption substantially underestimate the level and growth in the racial welfare gap by ignoring growing disparities in expected elderly health, wealth, and mortality. Our decomposition exercises show that a majority of the estimated welfare gaps are determined by age sixty initial conditions as opposed to racial differences in dynamic processes after age sixty. This suggests that policies aimed at closing racial gaps in late-life may be more successful and efficient if targeted earlier in the life-cycle. In other words, outside of direct wealth transfers, it may largely be too late to target such interventions directly at older populations.
 
-<span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
+<span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
 Chin, S., [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0)., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Health Insurance, Pregnancy, Health and Well-Being in Late-Life
 
