@@ -16,7 +16,7 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-Chin, S., [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0)., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Health Insurance, Pregnancy, Health and Well-Being in Late-Life
+Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). The Effect of Unemployment Insurance on the Depression Impact of Unemployment
 
 Chin, S., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Daylight Saving Time and Population Well-Being
 
