@@ -20,7 +20,7 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 Chin, S., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Daylight Saving Time and Population Well-Being
 
-[Zahran, S](https://economics.colostate.edu/people/szahran/)., Chin, S., [Fremstad, A](https://www.andersfremstad.com/)., & [Numa, G](https://economics.colostate.edu/people/gnuma/). The Compensation of Conscience: Evidence from Occupational Switching
+[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Distress: Evidence from Occupational Switching
 
 [Sedai, A.K](https://sites.google.com/view/ashishsedai)., & Chin, S. Does Better Fuel Choice Lead to Better Employment? An Analysis by Gender and Caste in India
 
