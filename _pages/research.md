@@ -16,11 +16,13 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
+[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Distress: Evidence from Occupational Switching
+
 Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). The Effect of Unemployment Insurance on the Depression Impact of Unemployment
 
 Chin, S., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Daylight Saving Time and Population Well-Being
 
-[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Distress: Evidence from Occupational Switching
+[Mushinski, D](https://economics.colostate.edu/people/mushinsk/)., & Chin, S. Measuring Bias in the Difference-in-Differences Estimator due to Changing Marginal Distributions of Unobserved Variables 
 
 [Sedai, A.K](https://sites.google.com/view/ashishsedai)., & Chin, S. Does Better Fuel Choice Lead to Better Employment? An Analysis by Gender and Caste in India
 
