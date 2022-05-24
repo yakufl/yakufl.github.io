@@ -16,7 +16,7 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Moral Value: Evidence from Occupational Switching
+[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Moral Values: Evidence from Occupational Switching
 
 Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). The Effect of Unemployment Insurance on the Depression Impact of Unemployment
 
