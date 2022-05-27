@@ -20,7 +20,7 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). The Effect of Unemployment Insurance on the Depression Impact of Unemployment
 
-Chin, S., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Daylight Saving Time and Population Well-Being
+Chin, S., [Zahran, S](https://economics.colostate.edu/people/szahran/)., & [ODell, N](https://njodell.com). Daylight Saving Time and Population Well-Being
 
 [Mushinski, D](https://economics.colostate.edu/people/mushinsk/)., & Chin, S. Measuring Bias in the Difference-in-Differences Estimator due to Changing Marginal Distributions of Unobserved Variables 
 
