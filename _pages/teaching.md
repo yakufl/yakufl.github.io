@@ -3,9 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience.
+I try to equip students with tools and skills that will serve them beyond the courses they take with me.  One of the wonderful things about economics is that it imparts such a useful way of thinking about the world. I hope that my students will take away not only enthusiasm for the discipline, but also a new language and a new lens through which they can view their jobs, majors, finances, politics, and communities.  Many of today’s compelling social issues—racism, climate change, poverty, health care, and inequality to name a few—can be framed as economic problems.  I hope that my teaching helps arm students with the quantitative literacy and strategic thinking ability they need to navigate these issues.
 
 I teach undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
