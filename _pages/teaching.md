@@ -3,6 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
+My teaching philosophy can be most simply expressed in two parts. First, within the classroom my goal is to instill knowledge and curiosity about the course content within each of my students. This involves not only ensuring that core content is understood, but also creating a genuine passion to extend and connect material to a broader context. Second, I believe effective teaching often moves beyond instruction of individual courses and into a mentorship role. My mentors, both academic and professional, were instrumental in achieving my success. This has led me to understand that teaching outside the classroom is just as important as inside the
+classroom.
+
 I teach undergraduate course on economic development that
 focuses on the economics of developing countries in a comparative perspective
 to economic conditions in developed countries. I also teach both introductory 
