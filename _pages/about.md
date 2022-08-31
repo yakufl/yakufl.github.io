@@ -19,4 +19,4 @@ For fun you will find me watching [English Premier League](https://www.premierle
 
 More information can be found in my [research](https://schinlfc.github.io/research), [teaching](https://schinlfc.github.io/teaching), and [curriculum vitae](https://schinlfc.github.io/cv) pages.
 
-Link to [Job Market Paper](files/pdf/research/Racial_Welfare_Chin_Miller_2022.pdf).
+Link to [Job Market Paper](/files/pdf/research/Racial_Welfare_Chin_Miller_2022.pdf){: .btn--research}.
