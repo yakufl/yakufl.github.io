@@ -17,11 +17,11 @@ Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/ho
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
 
-[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labour Market Price of Moral Values: Evidence from Occupational Switching
+[Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labor Market Price of Moral Values: Evidence from Occupational Switching
+
+Chin, S., & [Zahran, S](https://economics.colostate.edu/people/szahran/). Daylight Saving Time and Population Well-Being
 
 Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). The Effect of Unemployment Insurance on the Depression Impact of Unemployment
-
-Chin, S., [Zahran, S](https://economics.colostate.edu/people/szahran/)., & [ODell, N](https://njodell.com). Daylight Saving Time and Population Well-Being
 
 [Mushinski, D](https://economics.colostate.edu/people/mushinsk/)., & Chin, S. Measuring Bias in the Difference-in-Differences Estimator due to Changing Marginal Distributions of Unobserved Variables 
 
