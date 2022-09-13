@@ -13,12 +13,14 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans [PDF](/files/pdf/research/Racial_Welfare_Chin_Miller_2022.pdf){: .btn--research}
+Chin, S., & [Miller, R](https://sites.google.com/rams.colostate.edu/raymiller/home?authuser=0). Beyond Income: Health, Wealth, and Racial Welfare Gaps Among Older Americans. In Preparation for a Submission to the *Review of Economic Dynamics* [PDF](/files/pdf/research/Racial_Welfare_Chin_Miller_2022.pdf){: .btn--research}
 
 > We estimate racial disparities in well-being among the older U.S. population using an expected utility framework that incorporates differences in consumption, leisure, health, mortality, and wealth. We find large racial disparities in expected welfare later in life. Moreover, disparity measures based on cross-sectional consumption substantially underestimate racial welfare gaps by ignoring disparities in expected elderly health, wealth, and mortality. Our decomposition exercises show that a majority of the estimated welfare gaps are determined by age sixty initial conditions as opposed to racial differences in dynamic processes after age sixty. This suggests that policies aimed at closing racial gaps in late-life may be more successful and efficient if targeted earlier in the life-cycle. In other words, outside of direct wealth transfers, it may largely be too late to target such interventions directly at older populations.
 
 
 <span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
+
+Chin, S. Neighborhood Violence and Infant Health: The Causal Effect of Crime on Infant Birth Outcomes
 
 [Zahran, S](https://economics.colostate.edu/people/szahran/)., & Chin, S. Quantifying the Labor Market Price of Moral Values: Evidence from Occupational Switching
 
