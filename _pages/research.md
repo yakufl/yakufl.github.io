@@ -24,10 +24,8 @@ author_profile: true
 
 "Quantifying the Labor Market Price of Moral Values: Evidence from Occupational Switching" (joint with Sammy Zahran)
 
-"Daylight Saving Time and Population Well-Being" (joint with Sammy Zahran)
+"Machine Learning and Natural Language Processing in Population Well-Being: An Application to Daylight Saving Time" (joint with Sammy Zahran)
 
 "The Effect of Unemployment Insurance on the Depression Impact of Unemployment" (joint with Ray Miller)
-
-"Measuring Bias in the Difference-in-Differences Estimator due to Changing Marginal Distributions of Unobserved Variables" (joint with David Mushinski)
 
 "Does Better Fuel Choice Lead to Better Employment? An Analysis by Gender and Caste in India" (joint with Ashish Kumar Sedai)
