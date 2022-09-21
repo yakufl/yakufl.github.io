@@ -12,16 +12,12 @@ and intermediate level courses in microeconomics and
 macroeconomics.
 
 My teaching portfolio is available upon request.
-I teach the following courses at Colorado State University.
+I teach the selected following courses at Colorado State University.
 You can find a selection of syllabi, including detail of each course content below:
 
 - ECON 202: Principles of Microeconomics
     - [Syllabus](/files/pdf/teaching/ECON202_002_Syllabus__FA22_.pdf)
     - [Content](/files/pdf/teaching/ECON202_002_Schedule__FA22_.pdf)
-
-- ECON 202: Principles of Microeconomics 
-    - [Syllabus](/files/pdf/teaching/ECON202_801_Syllabus__SP22_.pdf)
-    - [Content](/files/pdf/teaching/ECON202_801_Schedule__SP22_.pdf)
 
 - ECON 460: Economic Development
     - [Syllabus](/files/pdf/teaching/ECON460_801_Syllabus.pdf)
