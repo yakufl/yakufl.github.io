@@ -26,11 +26,11 @@ author_profile: true
 
 "Quantifying the Labor Market Price of Moral Values: Evidence from Occupational Switching" (joint with Sammy Zahran)
 
-> we investigate whether workers in moral dissonant occupations contribute to immorality wage premiums, a form of compensating differential. Preliminary results show that hourly compensation wages are higher for workers in moral dissonant occupations, with an hourly change in the total compensation of about $\$1.7$. 
+> We investigate whether workers in moral dissonant occupations contribute to immorality wage premiums, a form of compensating differential. Preliminary results show that hourly compensation wages are higher for workers in moral dissonant occupations, with an hourly change in the total compensation of about 1.7 US dollars. 
 
 "Machine Learning and Natural Language Processing in Population Well-Being: An Application to Daylight Saving Time" (joint with Sammy Zahran)
 
->  We identify the causal effect of daylight saving time (DST) on population well-being by mimicking a natural experiment that exploits the transition to DST as an exogenous shock to the reallocating of ambient light from the morning to the evening; and disrupting sleep schedules in the U.S.
+>  We create measures of well-being using machine learning and natural processing algorithms. We apply our measures to identify the causal effect of daylight saving time (DST) on population well-being by mimicking a natural experiment that exploits the transition to DST as an exogenous shock to the reallocating of ambient light from the morning to the evening; and disrupting sleep schedules in the U.S.
 
 "The Effect of Unemployment Insurance on the Depression Impact of Job Loss" (joint with Ray Miller)
 
