@@ -22,10 +22,16 @@ author_profile: true
 
 "Neighborhood Violence and Infant Health: The Causal Effect of Crime on Infant Birth Outcomes"
 
+> I examine how maternal exposure to local crime affects birth outcomes. For example, pregnant women who live in neighborhoods with high crime rates are more likely to have infants with poor health conditions. However, causally identifying the effect of neighborhood crime rates on birth outcomes is challenging particularly due to sorting concerns---mothers who are poor and minority may also sort into neighborhoods with higher crime rates. To address this concern, I adopt an instrumental variable approach, and exploit the variation of crime rates across counties and over time.
+
 "Quantifying the Labor Market Price of Moral Values: Evidence from Occupational Switching" (joint with Sammy Zahran)
+
+> we investigate whether workers in moral dissonant occupations contribute to immorality wage premiums, a form of compensating differential. Preliminary results show that hourly compensation wages are higher for workers in moral dissonant occupations, with an hourly change in the total compensation of about $\$1.7$. 
 
 "Machine Learning and Natural Language Processing in Population Well-Being: An Application to Daylight Saving Time" (joint with Sammy Zahran)
 
-"The Effect of Unemployment Insurance on the Depression Impact of Unemployment" (joint with Ray Miller)
+>  We identify the causal effect of daylight saving time (DST) on population well-being by mimicking a natural experiment that exploits the transition to DST as an exogenous shock to the reallocating of ambient light from the morning to the evening; and disrupting sleep schedules in the U.S.
+
+"The Effect of Unemployment Insurance on the Depression Impact of Job Loss" (joint with Ray Miller)
 
 "Does Better Fuel Choice Lead to Better Employment? An Analysis by Gender and Caste in India" (joint with Ashish Kumar Sedai)
