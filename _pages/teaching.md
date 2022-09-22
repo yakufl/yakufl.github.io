@@ -11,9 +11,7 @@ to economic conditions in developed countries. I also teach both introductory
 and intermediate level courses in microeconomics and
 macroeconomics.
 
-My teaching portfolio is available upon request.
-I teach the selected following courses at Colorado State University.
-You can find a selection of syllabi, including detail of each course content below:
+My teaching portfolio is available upon request. You can find a selection of syllabi, including detail of each course content below:
 
 - ECON 202: Principles of Microeconomics
     - [Syllabus](/files/pdf/teaching/ECON202_002_Syllabus__FA22_.pdf)
