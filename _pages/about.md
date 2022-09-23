@@ -24,6 +24,6 @@ I am currently doing research on the following topics:
 - The Theory of cross-country price differences in International Macroeconomics
 
 
-### Research Interests
+### More about me
 
 You are welcome to read my posts on Political Economy in my [blog](https://www.yakufl.org).
