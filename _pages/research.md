@@ -6,9 +6,9 @@ author_profile: true
 ---
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-"The Welfare Cost of Late-life Depression" (joint with Ray Miller and Ashish Kumar Sedai), *Journal of Economic Behavior and Organization*, forthcoming [PDF](/files/pdf/research/Welfare_Cost_Late-life_Depression.pdf){: .btn--research}
+"The Limits of the Wage-led Growth Strategy and the Iron Law of Capitalism: A Theoretical Appraisal" , *The New School Economic Review*, forthcoming {: .btn--research}
 
-> We quantify the welfare cost of depression among older Americans by estimating a panel VAR model of mental and physical health, labor supply, and consumption using data from the Health and Retirement Study. We use the estimated model and age sixty joint distribution of outcomes to simulate life-cycle paths with and without prevalence of depressive symptoms after age sixty. We estimate that the prevalence of late-life depression costs an average of between 0.85 and 2.1 years in quality-adjusted life expectancy per person. Moreover, depression may result in an average loss of labor supply of up to 1.1 months and lifetime consumption of up to 16,000 US dollars. Combining into a single compensating variation welfare metric, we estimate a bound on the average welfare cost of depression of 8-15% of annual consumption after age sixty. On aggregate, this amounts to roughly 180-360 billion US dollars annually. We also project that while the average welfare cost of late-life depression is declining slightly over birth cohorts, the welfare burden is becoming significantly more unequal.
+> The purpose of this paper is twofold. It identifies the recent development of a profound critique of Kaleckian models of growth and distribution that enables the possibility of endogenous regimes. I also present and discuss a theoretical model in which the IS curve is non-linear and demand regimes are unstable. Different theoretical and policy approaches can be fitted in this model, although it is recognized that under the capitalist system, a sort of iron law arises. Thus, it is not possible to permanently pursue the so-called wage-led growth strategy since the regime changes according to the distribution of income.
 
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
