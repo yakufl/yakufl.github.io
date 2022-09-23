@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayorn Chin"
+title                    : "Yaku Fernandez-Landa"
 title_separator          : "-"
-name                     : &name "Sayorn Chin"
-description              : &description "Ph.D. Candidate and Data Scientist"
+name                     : &name "Yaku Fernandez-Landa"
+description              : &description "Ph.D. Student"
 url                      : https://schinlfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "schinlfc/schinlfc.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ChinSayorn
+  username               : Yakufl
 facebook:
   username               :
   app_id                 :
@@ -82,17 +82,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sayorn Chin"
+  name             : "Yaku Fernandez-Landa"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Candidate at Colorado State University and Data Scientist at Mountain Data Group."
-  view             : "The views expressed here are my own and do not necessarily represent the views of Colorado State University nor Mountain Data Group."
+  bio              : "Ph.D. Candidate at Colorado State University"
+  view             : "The views expressed here are my own and do not necessarily represent the views of Colorado State University."
   location         : "Fort Collins, CO, USA"
   employer         :
   pubmed           :
   orcid            :
-  googlescholar    : "https://scholar.google.com/citations?user=Yx02X_IAAAAJ&hl=en"
-  email            : "sayorn.chin@colostate.edu"
-  researchgate     : "https://www.researchgate.net/profile/Sayorn-Chin"
+  googlescholar    : 
+  email            : "yaku.fernandez_landa@colostate.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,20 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "schinlfc"
+  github           : "yakufl"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "sayorn-chin"
+  linkedin         : "yakufl"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "ChinSayorn"
+  twitter          : "Yakufl"
   vine             :
   weibo            :
   xing             :
