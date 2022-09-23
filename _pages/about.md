@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Welcome to my academic website!
 
-I am currently a Ph.D. Candidate in Economics at [Colorado State University](https://www.colostate.edu/).
+I am currently a Ph.D. Student in Economics at [Colorado State University](https://www.colostate.edu/), located in Fort Collins. Here I am a *Graduate Teaching Assistant* which means that besides the Ph.D. Program, I give recitations to undergraduate students in Principles of Microeconomics.
 
 After completing a MSc in Economics at the [University of Lausanne](https://www.unil.ch/central/en/home.html), Switzerland, I explored Political Economy as a branch of specialization. 
 
