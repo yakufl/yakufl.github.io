@@ -17,6 +17,6 @@ author_profile: true
 
 "Productive Capabilities in the European North-South Divide: *A structural view of trade patterns in Germany, Italy and Spain between 1995 and 2018*"
 
-"Beyond Balassa-Samuelson hypothesis: *A structuralist view on international price differences*" 
+"Beyond Balassa-Samuelson hypothesis: *An alternative perspective on international price differences*" 
 
 
