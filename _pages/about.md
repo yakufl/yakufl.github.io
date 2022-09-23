@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Welcome to my academic website!
+## Welcome to my academic website!
 
 Originally from Peru, I am currently a Ph.D. Student in Economics at [Colorado State University](https://www.colostate.edu/), located in Fort Collins. There, I am a *Graduate Teaching Assistant*, which means that besides the Ph.D. Program, I give recitations to undergraduate students in Principles of Microeconomics.
 
@@ -24,6 +24,6 @@ I am currently doing research on the following topics:
 - The Theory of cross-country price differences in International Macroeconomics
 
 
-## Research Interests
+### Research Interests
 
 You are welcome to read my posts on Political Economy in my [blog](https://www.yakufl.org).
