@@ -26,4 +26,8 @@ I am currently doing research on the following topics:
 
 ### More about me
 
+Coming from a low-income family, I am committed to supporting better representation of the disadvantaged groups in academia. In particular, there needs to be a more level presence of academics from the Global South. Feel free to contact me if you think I can help with informal mentoring or feedback on your research.
+
 You are welcome to read my posts on Political Economy in my [blog](https://www.yakufl.org).
+
+
