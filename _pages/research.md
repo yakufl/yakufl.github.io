@@ -19,4 +19,6 @@ author_profile: true
 
 "Beyond Balassa-Samuelson hypothesis: *An alternative perspective on international price differences*" 
 
+"Secular Stagnation: Monopolistic Tendencies or Saturated Markets?"
+
 
