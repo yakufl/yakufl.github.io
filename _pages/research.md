@@ -6,12 +6,9 @@ author_profile: true
 ---
 <span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-"The Limits of the Wage-led Growth Strategy and the Iron Law of Capitalism: A Theoretical Appraisal" , *The New School Economic Review*, Volume 11 (2021).
+"[The Limits of the Wage-led Growth Strategy and the Iron Law of Capitalism: A Theoretical Appraisal](https://nsereview.org/index.php/NSER/article/view/95)" , *The New School Economic Review*, Volume 11 (2021).
 
 > The purpose of this paper is twofold. It identifies the recent development of a profound critique of Kaleckian models of growth and distribution that enables the possibility of endogenous regimes. I also present and discuss a theoretical model in which the IS curve is non-linear and demand regimes are unstable. Different theoretical and policy approaches can be fitted in this model, although it is recognized that under the capitalist system, a sort of iron law arises. Thus, it is not possible to permanently pursue the so-called wage-led growth strategy since the regime changes according to the distribution of income.
-
-
-https://nsereview.org/index.php/NSER/article/view/95
 
 
 
