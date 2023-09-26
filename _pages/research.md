@@ -16,8 +16,8 @@ author_profile: true
 
 "Productive Capabilities in the European North-South Divide: *A structural view of trade patterns in Germany, Italy and Spain between 1995 and 2018*"
 
-"Beyond Balassa-Samuelson hypothesis: *An alternative perspective on international price differences*" 
+"Measuring workers' power across countries: *A theoretical approach and a empirical application *" 
 
-"Secular Stagnation: Monopolistic Tendencies or Saturated Markets?"
+"Microeconomic foundations of complexity: Firms, competition and innovation in Schumpeter, Penrose and Steindl"
 
 
