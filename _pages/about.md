@@ -9,11 +9,13 @@ redirect_from:
 ---
 ## Welcome to my corner in the interweb!
 
-Originally from Peru, I have completed postgraduate degrees in Economics and Political Economy in Switzerland and the US. On this site, you will discover a showcase of my research work alongside my coding projects.
+My name is Yaku Fernandez-Landa. I am an independent researcher with completed postgraduate degrees in Economics and Political Economy in Switzerland and the US. On this site, you will discover a showcase of my research work alongside my coding projects.
 
-My area of interest resides at the crossroads of productivity, market structure, aggregate demand, and social metabolism. I am well-versed in heterodox approaches such as Classical Political Economy, post-Keynesianism, and evolutionary economics. Methodologically, I evaluate the economy as a complex structure of interdependent sectors, adopting what can be termed a meso perspective in Economics. To achieve this, I adopt computational simulations and economic history as the main tools.
+My area of interest resides at the crossroads of productivity, market structure, aggregate demand, and social metabolism. I am well-versed in heterodox approaches such as Classical Political Economy, post-Keynesianism, and Evolutionary Economics. Methodologically, I evaluate the economy as a complex structure of interdependent sectors, adopting what can be termed a meso perspective in Economics. To achieve this, I adopt computational simulations and economic history as the main tools.
 
-I am currently doing research on the following topics:
+I am originally from Peru. Currently based in Geneva, Switzerland
+
+Recently, my research focuses in the following topics:
 
 - Induced technical change at the sectoral level
 - Political Economy of ecological transition
