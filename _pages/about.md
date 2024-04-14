@@ -15,10 +15,11 @@ My area of interest resides at the crossroads of productivity, market structure,
 
 I am originally from Peru. Currently based in Geneva, Switzerland
 
-Recently, my research focuses in the following topics:
+Recently, my research focuses on the following topics:
 
 - Induced technical change at the sectoral level
 - Political Economy of ecological transition
+- The microeconomics of complexity: Schumpeter, Penrose and Steindl
 
 
 
